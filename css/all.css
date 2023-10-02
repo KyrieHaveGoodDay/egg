@@ -538,7 +538,7 @@ body {
   width: 450px;
   height: 700px;
   margin: auto;
-  background-image: url(../../img/main_bg.png);
+  background-image: url(../img/main_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: inline-block;
@@ -626,7 +626,7 @@ body {
   left: 32%;
   width: 37%;
   height: 71%;
-  background-image: url(../../img/item.png);
+  background-image: url(../img/item.png);
   background-repeat: no-repeat;
   background-size: 300%;
   background-position-x: 0;
